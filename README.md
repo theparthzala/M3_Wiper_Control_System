@@ -12,11 +12,17 @@
    <img src="https://api.codiga.io/public/badge/user/github/theparthzala?style=light" alt="codiga badge" />
 </a>
 
-# Codacy badge
+# Codacy 
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/39ae3172156a48028a3ab2ae8136ecd6)](https://www.codacy.com/gh/theparthzala/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=theparthzala/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
 
 
+# PDLC BASED LEARNING
+[![Build Linux](https://github.com/theparthzala/M3_Wiper_Control_System/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/theparthzala/M3_Wiper_Control_System/actions/workflows/Build%20Linux.yml)
 
+[![CI](https://github.com/theparthzala/M3_Wiper_Control_System/actions/workflows/CI.yml/badge.svg)](https://github.com/theparthzala/M3_Wiper_Control_System/actions/workflows/CI.yml)
 
+[![Cpp check](https://github.com/theparthzala/M3_Wiper_Control_System/actions/workflows/Cpp%20check.yml/badge.svg)](https://github.com/theparthzala/M3_Wiper_Control_System/actions/workflows/Cpp%20check.yml)
 
 ## Folder Structure
 
