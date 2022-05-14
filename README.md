@@ -1,5 +1,7 @@
 # M3_Wiper_Control_System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6a7a102d47e64051ab55018290427c2b)](https://app.codacy.com/gh/theparthzala/M3_Wiper_Control_System?utm_source=github.com&utm_medium=referral&utm_content=theparthzala/M3_Wiper_Control_System&utm_campaign=Badge_Grade_Settings)
+
 # Codiga Analysis
 
 ![Code Quality Score](https://api.codiga.io/project/33442/score/svg)
