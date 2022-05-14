@@ -1,4 +1,4 @@
-# TEST CASES and Corresponding Output
+# TEST Plan
 # High Level Test Cases
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS | 
 | --------|:------------|:--------|:--------|:-----------|:-------------| 
